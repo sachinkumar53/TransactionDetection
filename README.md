@@ -10,10 +10,13 @@ The transactions are classified into different categorised such as Food, Travel,
 
 ## Screenshots
 
+<div>
 <img src="https://github.com/sachinkumar53/TransactionDetection/blob/master/screenshots/Screenshot_20221105-100749_SMS%20detection.jpg?raw=true" alt="Screenshot_1" width=25%/>
 <img src="https://github.com/sachinkumar53/TransactionDetection/blob/master/screenshots/Screenshot_20221105-100758_SMS%20detection.jpg?raw=true" alt="Screenshot_2" width=25%/>
 <img src="https://github.com/sachinkumar53/TransactionDetection/blob/master/screenshots/Screenshot_20221105-100805_SMS%20detection.jpg?raw=true" alt="Screenshot_3" width=25%/>
 <img src="https://github.com/sachinkumar53/TransactionDetection/blob/master/screenshots/Screenshot_20221105-100813_SMS%20detection.jpg?raw=true" alt="Screenshot_4" width=25%/>
+</div>
+
 ## Authors
 
 - [@sachinkumar53](https://www.github.com/sachinkumar53)
